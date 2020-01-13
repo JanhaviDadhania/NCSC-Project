@@ -1,6 +1,8 @@
 # NCSC-Project
 Block level project for 22nd national children's science congress 2015-16 under the sub-theme Impact of Human Activities on Climate
 
+<p align="center"> <img width="500" src="ncsc.jpeg"> </p>
+
 Sequence
 1. Home content
 2. Abstract
